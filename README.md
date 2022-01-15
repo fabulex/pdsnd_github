@@ -4,7 +4,7 @@
 ### Project Title
 Udacity-Project-II-Eplore_US_Bikeshare_Data
 
-### Description
+### Project Description
 
 In this project, I will make use of Python to explore data provided by Motivate, a bike share system provider for three major cities in the United States—Chicago, New York City, and Washington. I will write code to import the data and answer interesting questions about it by computing descriptive statistics. I will also write a script that takes in raw input to create an interactive experience in the terminal to present these statistics.
 
@@ -44,7 +44,7 @@ Raw input is solicited and handled correctly to guide the interactive question-a
 
 Descriptive statistics are correctly computed and used to answer the questions posed about the data. Raw data is displayed upon request by the user in this manner:
 
-### Files used
+### Project Files Used 
 bikeshare_2.py script
 
 all-project-files.zip
