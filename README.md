@@ -46,10 +46,15 @@ Descriptive statistics are correctly computed and used to answer the questions p
 
 ### Files used
 bikeshare_2.py script
+
 all-project-files.zip
+
 chicago.csv
+
 new_york_city.csv
+
 washington.csv
+
 README.md
 
 ### Credits
