@@ -44,7 +44,7 @@ Raw input is solicited and handled correctly to guide the interactive question-a
 
 Descriptive statistics are correctly computed and used to answer the questions posed about the data. Raw data is displayed upon request by the user in this manner:
 
-### Project Files Used 
+### Project Files Used
 bikeshare_2.py script
 
 all-project-files.zip
